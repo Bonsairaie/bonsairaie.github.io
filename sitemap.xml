@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://bonsairaie.github.io/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://bonsairaie.github.io/#activites</loc><priority>0.9</priority></url>
+  <url><loc>https://bonsairaie.github.io/#savoir</loc><priority>0.9</priority></url>
+  <url><loc>https://bonsairaie.github.io/#savoir-debuter</loc><priority>0.7</priority></url>
+  <url><loc>https://bonsairaie.github.io/#savoir-entretien</loc><priority>0.7</priority></url>
+  <url><loc>https://bonsairaie.github.io/#savoir-techniques</loc><priority>0.7</priority></url>
+  <url><loc>https://bonsairaie.github.io/#savoir-especes</loc><priority>0.7</priority></url>
+  <url><loc>https://bonsairaie.github.io/#philosophie</loc><priority>0.6</priority></url>
+  <url><loc>https://bonsairaie.github.io/#contact</loc><priority>0.6</priority></url>
+</urlset>
